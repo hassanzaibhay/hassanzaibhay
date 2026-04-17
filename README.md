@@ -17,7 +17,7 @@ Active open-source contributor with 4 published projects on GitHub and PyPI. Shi
 ### django-query-doctor
 
 [![PyPI](https://img.shields.io/pypi/v/django-query-doctor?color=blue)](https://pypi.org/project/django-query-doctor/)
-[![Tests](https://img.shields.io/github/actions/workflow/status/hassanzaibhay/django-query-doctor/tests.yml?label=tests)](https://github.com/hassanzaibhay/django-query-doctor/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/hassanzaibhay/django-query-doctor/ci.yml?label=tests)](https://github.com/hassanzaibhay/django-query-doctor/actions)
 [![Coverage](https://img.shields.io/badge/coverage-86%25%2B-brightgreen)](https://github.com/hassanzaibhay/django-query-doctor)
 
 Automated Django ORM query diagnosis with prescriptive performance fixes.
