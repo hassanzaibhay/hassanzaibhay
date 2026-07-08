@@ -19,7 +19,7 @@ Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI wi
 
 [![PyPI](https://img.shields.io/pypi/v/django-query-doctor?color=blue)](https://pypi.org/project/django-query-doctor/)
 [![Downloads](https://static.pepy.tech/badge/django-query-doctor)](https://pepy.tech/project/django-query-doctor)
-[![Downloads/month](https://img.shields.io/pypi/dm/django-query-doctor?color=blue&label=downloads%2Fmonth)](https://pepy.tech/project/django-query-doctor)
+[![Downloads/month](https://static.pepy.tech/badge/django-query-doctor/month)](https://pepy.tech/project/django-query-doctor)
 [![Python](https://img.shields.io/pypi/pyversions/django-query-doctor)](https://pypi.org/project/django-query-doctor/)
 [![Tests](https://img.shields.io/github/actions/workflow/status/hassanzaibhay/django-query-doctor/ci.yml?label=tests)](https://github.com/hassanzaibhay/django-query-doctor/actions)
 [![Coverage](https://img.shields.io/badge/coverage-86%25%2B-brightgreen)](https://github.com/hassanzaibhay/django-query-doctor)
@@ -119,13 +119,14 @@ Big-data platform processing 3.2M real NYC taxi trips through batch and real-tim
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanzaibhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hassan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzaibhay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+[![Followers](https://img.shields.io/github/followers/hassanzaibhay?style=social)](https://github.com/hassanzaibhay?tab=followers)
+&nbsp;
+[![django-query-doctor](https://img.shields.io/github/stars/hassanzaibhay/django-query-doctor?style=social&label=django-query-doctor)](https://github.com/hassanzaibhay/django-query-doctor)
+[![pyteam-skills](https://img.shields.io/github/stars/hassanzaibhay/pyteam-skills?style=social&label=pyteam-skills)](https://github.com/hassanzaibhay/pyteam-skills)
+[![ecommerce-clickstream-platform](https://img.shields.io/github/stars/hassanzaibhay/ecommerce-clickstream-platform?style=social&label=ecommerce-clickstream)](https://github.com/hassanzaibhay/ecommerce-clickstream-platform)
+[![nyc-taxi-analytics-platform](https://img.shields.io/github/stars/hassanzaibhay/nyc-taxi-analytics-platform?style=social&label=nyc-taxi-analytics)](https://github.com/hassanzaibhay/nyc-taxi-analytics-platform)
 
 ---
 
