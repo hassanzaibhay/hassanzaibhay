@@ -9,7 +9,7 @@ Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI wi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-zaib-hayat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanzaibhayatske@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hassanzaibhayat.com)
-[![AWS](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/hassan-zaib-hayat)
+[![AWS](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/e7e2af04-2d95-4a8d-9aa1-b1483a0091c1)
 
 ---
 
@@ -24,7 +24,7 @@ Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI wi
 [![Tests](https://img.shields.io/github/actions/workflow/status/hassanzaibhay/django-query-doctor/ci.yml?label=tests)](https://github.com/hassanzaibhay/django-query-doctor/actions)
 [![Coverage](https://img.shields.io/badge/coverage-86%25%2B-brightgreen)](https://github.com/hassanzaibhay/django-query-doctor)
 
-Automated Django ORM query diagnosis with prescriptive performance fixes. **5,300+ downloads** — predominantly Linux / Python 3.13 production environments.
+Automated Django ORM query diagnosis with prescriptive performance fixes. **5,500+ downloads** — predominantly Linux / Python 3.13 production environments.
 
 - **QueryTurbo** — 3-phase SQL compilation cache (UNTRUSTED→TRUSTED→POISONED) using psycopg3 prepared statements
 - **AST-based analyzer** — detects DRF `SerializerMethodField` N+1 patterns at import time, zero runtime overhead
