@@ -24,7 +24,7 @@ Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI wi
 [![Tests](https://img.shields.io/github/actions/workflow/status/hassanzaibhay/django-query-doctor/ci.yml?label=tests)](https://github.com/hassanzaibhay/django-query-doctor/actions)
 [![Coverage](https://img.shields.io/badge/coverage-86%25%2B-brightgreen)](https://github.com/hassanzaibhay/django-query-doctor)
 
-Automated Django ORM query diagnosis with prescriptive performance fixes. **5,500+ downloads** — predominantly Linux / Python 3.13 production environments.
+Automated Django ORM query diagnosis with prescriptive performance fixes.
 
 - **QueryTurbo** — 3-phase SQL compilation cache (UNTRUSTED→TRUSTED→POISONED) using psycopg3 prepared statements
 - **AST-based analyzer** — detects DRF `SerializerMethodField` N+1 patterns at import time, zero runtime overhead
