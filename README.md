@@ -4,7 +4,7 @@
 
 Built production-grade big-data platforms processing 285M+ e-commerce events and 3.2M+ NYC taxi trips with Hadoop, Spark, Kafka, and Airflow — fronted by React dashboards on Terraform-managed AWS and GCP infrastructure.
 
-Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI with 5,300+ downloads**. AWS Certified Data Engineer. Ship faster with AI-assisted development (Claude Code, GitHub Copilot), backed by published research in blockchain performance optimization (M.Phil., PUCIT).
+Active open-source maintainer — **4 projects on GitHub, 2 published to PyPI with 7,000+ downloads**. AWS Certified Data Engineer. Ship faster with AI-assisted development (Claude Code, GitHub Copilot), backed by published research in blockchain performance optimization (M.Phil., PUCIT).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-zaib-hayat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanzaibhayatske@gmail.com)
