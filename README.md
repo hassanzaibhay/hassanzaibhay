@@ -29,7 +29,7 @@ Automated Django ORM query diagnosis with prescriptive performance fixes.
 - **QueryTurbo** — 3-phase SQL compilation cache (UNTRUSTED→TRUSTED→POISONED) using psycopg3 prepared statements
 - **AST-based analyzer** — detects DRF `SerializerMethodField` N+1 patterns by static analysis, run out of band via `manage.py check_serializers`, with no runtime instrumentation
 - **Baseline regression detection** — `--save-baseline` / `--fail-on-regression` with GitHub Actions PR annotations
-- **7 analyzers** · **811 tests** · **86%+ coverage** · Django 4.2–6.0 · ASGI-safe middleware · mypy strict + ruff clean
+- **7 analyzers** · **819 tests** · **86%+ coverage** · Django 4.2–6.0 · ASGI-safe middleware · mypy strict + ruff clean
 
 ```bash
 pip install django-query-doctor
